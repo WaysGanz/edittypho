@@ -33,3 +33,4 @@ Buka `app.js`:
 
 Buka `?tpl=nama` di URL untuk langsung membuka gaya tertentu, misalnya `/?tpl=signboard`.
 # edittypho
+# edittypho
